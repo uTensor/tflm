@@ -1,0 +1,16 @@
+tensorflow/lite/experimental/micro/examples/*
+third_party/flatbuffers/andriod/*
+third_party/flatbuffers/CMAKE
+third_party/flatbuffers/conan
+third_party/flatbuffers/dart
+third_party/flatbuffers/go
+third_party/flatbuffers/grpc
+third_party/flatbuffers/java
+third_party/flatbuffers/js
+third_party/flatbuffers/lobster
+third_party/flatbuffers/lua
+third_party/flatbuffers/net
+third_party/flatbuffers/php
+third_party/flatbuffers/python
+third_party/flatbuffers/reflection
+third_party/flatbuffers/tests
